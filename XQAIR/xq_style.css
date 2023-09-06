@@ -1,0 +1,28 @@
+h1{
+    color:black;
+    text-align: center;
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+#photo{
+    width: 100%;
+}
+
+#container{
+    display: flex;
+}
+
+#btn1{
+    flex:1;
+}
+
+#btn2{
+    flex:1;
+}
+
+#btn3{
+    flex:1;
+}
